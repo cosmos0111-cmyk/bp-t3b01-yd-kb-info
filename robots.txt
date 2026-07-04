@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://cosmos0111-cmyk.github.io/bp-t3b01-yd-kb-info//sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://yeouido-song-info.mapo-room-guide.xyz/sitemap.xml
