@@ -1,206 +1,437 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/</loc>
-    <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yeouido-song-info.mapo-room-guide.xyz/about.html</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://yeouido-song-info.mapo-room-guide.xyz/blog.html</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0163.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0164.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0165.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0166.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0167.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0168.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0169.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0170.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0171.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0172.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0173.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0174.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0175.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0176.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0177.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0178.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0179.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260707-0180.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0498.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0499.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0100.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0101.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0102.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0103.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0104.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0105.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0106.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0107.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0108.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0109.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260722-0110.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0002.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0003.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0004.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0005.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0006.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0007.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0008.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0009.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0010.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0011.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0012.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0013.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0014.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0015.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0016.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0017.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0018.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0019.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0020.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0021.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0022.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0023.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0024.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0025.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0026.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0027.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0028.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0029.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0030.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0031.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0032.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0033.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0034.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0035.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0036.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0037.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0039.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0040.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0041.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0042.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0043.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0044.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0045.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0046.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0047.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0048.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0049.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0050.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0051.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0052.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0054.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeouido-song-info.mapo-room-guide.xyz/posts/gemini-coverage-20260730-0055.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
